@@ -1,14 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Cookie&family=Great+Vibes&family=Merriweather&family=Sacramento&family=Montserrat&display=swap');
 
 
-/* font-family: 'Cookie', cursive;
-font-family: 'Great Vibes', cursive;
-font-family: 'Merriweather', serif;
-font-family: 'Sacramento', cursive; 
-font-family: Montserrat, sans-serif;
-*/
-
-
 * {
     margin: 0;
     padding: 0;
@@ -149,7 +141,6 @@ img.book-image {
 .footer-section {
     background-color: #66BFBF;
     padding: 30px 0 20px;
-    margin-bottom: 500px;
 }
 
 .social-link {
